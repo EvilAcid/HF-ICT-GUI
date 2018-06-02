@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images/icons">
+        <file>006-cpp-file-format-symbol-1.png</file>
+        <file>008-social-rss.png</file>
+        <file>009-code-fork-symbol.png</file>
+        <file>010-chat-support.png</file>
+        <file>011-softtware-engineer.png</file>
+    </qresource>
+</RCC>
